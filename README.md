@@ -1,3 +1,7 @@
+## Tasks:
+1.Add live stream for chef
+2.Add videos section for recipe learning
+
 # zomato (zomato clone) with extra features
 
 **Live App Demo Link:** [Zomato Clone Live App Demo](https://zomato-clonetest.vercel.app/)
