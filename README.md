@@ -1,6 +1,7 @@
 ## Tasks:
-1.Add live stream for chef
-2.Add videos section for recipe learning
+
+1. Add live stream for che
+2. Add videos section for recipe learning
 
 # zomato (zomato clone) with extra features
 
@@ -11,7 +12,8 @@ Zomato is a online food ordering application, we made a clone (zomato) of it usi
 
 ## Pages Developed:
 
-1. [Home Page](#home-page)    
+1. [Home Page](#home-page)
+2. Login Page    
 3. [User Profile Page](#user-profile-page)   
 4. Restaurant Home Page 
 5. [Restaurant Order Page](#hotel-order-page)   
