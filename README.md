@@ -1,6 +1,6 @@
 # zomato (zomato clone) with extra features
 
-**Live App Demo Link:** [Zomato Clone Live App Demo]([https://zomatoclone.Utkarshmankali.in/](https://zomato-clonetest-7tbv.vercel.app/))
+**Live App Demo Link:** [Zomato Clone Live App Demo](https://zomato-clonetest.vercel.app/)
 
 Zomato is a online food ordering application, we made a clone (zomato) of it using React Js, Zomato Frontend clone using React Js and added features like recorded video learning, live stream by chef,etc.
 
@@ -57,7 +57,12 @@ Zomato is a online food ordering application, we made a clone (zomato) of it usi
 
 <img src="Project Images/HotelOrderPage.png" />
 
+# Live Stream Page:
 
-### Project Started Date: june, 11, 2022
+<img src="Project Images/livestream.png" />
 
-### Project Completed Date: july 19, 2022
+# Videos Page:
+
+<img src="Project Images/videos.png" />
+<img src="Project Images/play.png" />
+
